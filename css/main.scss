@@ -28,6 +28,11 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
+// Roger's Variables
+$cabin-font: 'Cabin Sketch', cursive;
+$amatic-font: 'Amatic SC', cursive;
+$diadact-font: 'Didact Gothic', sans-serif;
+
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
@@ -48,5 +53,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "style"
 ;

@@ -1,0 +1,46 @@
+ul.intro-header{
+	list-style: none;
+	margin: 100px 0 0 0;
+	padding: 0;
+	li{
+		vertical-align: middle;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		a.intro-link{
+			color: $grey-color-dark;
+			font-family: $diadact-font;
+			font-size: 60px;
+			line-height: 80px;
+			&:hover{
+				font-family: 'Cabin Sketch', cursive;
+				text-decoration: none;
+				font-size: 62px;
+				line-height: 80px;
+			}
+			&.audio{
+				margin-left: 0px;
+			}
+			&.roger{
+				margin-left: 50px;
+			}
+			&.build{
+				margin-left: -150px;
+			}
+			&.code{
+				margin-left: -75px;
+			}
+		}
+	}
+}
+
+
+.cabin{
+	font-family: $cabin-font;
+}
+.amatic{
+	font-family: $amatic-font;
+}
+.diadact{
+	font-family: $diadact-font;
+}

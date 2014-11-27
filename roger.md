@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: roger
+permalink: /roger/
 ---
 
 I am audioroger.

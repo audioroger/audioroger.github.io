@@ -1,4 +1,4 @@
 audioroger.github.io
 ====================
 
-AudioRoger Site on GitHub Pages
+audioroger site on GitHub Pages

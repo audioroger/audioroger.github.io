@@ -4,4 +4,4 @@ title: build
 permalink: /build/
 ---
 
-I am a builder. I things for the real world.
+I am a builder. I make things for the real world.

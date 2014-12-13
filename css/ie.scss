@@ -1,0 +1,14 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import "partials/unsemantic-vars";
+
+@include unsemantic-grid-placeholders;
+@include unsemantic-grid-base;
+
+@include unsemantic-grid-placeholders(desktop);
+@include unsemantic-grid-scoped(desktop);
+
+@import "partials/ie";

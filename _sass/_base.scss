@@ -8,7 +8,9 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+h1{
+	font-family: 'Cabin Sketch', cursive;
+}
 
 /**
  * Basic styling
@@ -193,12 +195,9 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 32px;
+        height: 32px;
+        padding: 0 16px;
         vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
     }
 }

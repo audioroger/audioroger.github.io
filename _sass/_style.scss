@@ -65,7 +65,6 @@ body{
 	}
 }
 
-
 .cabin{
 	font-family: $cabin-font;
 }
@@ -74,4 +73,13 @@ body{
 }
 .diadact{
 	font-family: $diadact-font;
+}
+
+em{
+  font-size: 12px;
+  line-height: 12px;
+}
+
+hr{
+  margin-bottom: 10px;
 }

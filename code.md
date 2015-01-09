@@ -15,18 +15,18 @@ ___
 <a href="https://www.gingersnapsetc.org/" title="Gingersnaps, Etc." target="_blank">Gingersnaps, Etc.</a><br>
 *Ruby/Rails, Front-End*
 
-I took the designs from Photoshop into front-end code and implement the cart and an initial back-end management system in Ruby on Rails.
+I took the designs from Photoshop into front-end code and implemented the cart and an initial back-end management system in Ruby on Rails.
 
-I did *not* do the visual or user experience design, although I did work some UX into the weird checkout workflow to make it slightly better. 
+I did not do the visual or user experience design, although I did work some UX into the weird checkout workflow to make it slightly better. 
 
 ___
 
 <a href="https://video.modmore.com/modx-weekend-2014/" title="MODX Developers Conference" target="_blank">MODX Developers Conference - Lightning Talk Speaker</a><br>
-*Skip to 10:46 so see me!*
+*Skip to 10:47 to see me!*
 
 <div class="resiframe">
 
-  <iframe src="//player.vimeo.com/video/107901603" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="//player.vimeo.com/video/107901603" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 </div>
 

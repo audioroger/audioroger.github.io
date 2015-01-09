@@ -6,9 +6,7 @@ permalink: /code/
 
 I am a developer.
 
-I code places on the web.
-
-Most of my good stuff has been done in my role as VP Interactive at <a href="http://keystoneresources.com/" title="Keystone Resources" target="_blank">Keystone Resources</a> and can be seen <a href="http://keystoneresources.com/portfolio/#interactive" title="Keystone Resources Portfolio" target="_blank">here</a>.
+I code places on the web. Most of my good stuff has been done in my role as VP Interactive at <a href="http://keystoneresources.com/" title="Keystone Resources" target="_blank">Keystone Resources</a> and can be seen <a href="http://keystoneresources.com/portfolio/#interactive" title="Keystone Resources Portfolio" target="_blank">here</a>.
 
 But also, here's some other stuff I've done:
 

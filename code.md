@@ -26,7 +26,7 @@ ___
 <a href="https://video.modmore.com/modx-weekend-2014/" title="MODX Developers Conference" target="_blank">MODX Developers Conference - Lightning Talk Speaker</a><br>
 *Skip to 10:46 so see me!*
 
-<div class="center">
+<div class="resiframe">
 
   <iframe src="//player.vimeo.com/video/107901603" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -35,4 +35,3 @@ ___
 *Thanks to <a href="https://twitter.com/mark_hamstra" title="Mark Hamstra Twitter" target="_blank">Mark</a> @ <a href="https://modmore.com/" title="modmore" target="_blank">modmore</a>*
 
 ___
-

@@ -26,7 +26,7 @@ ___
 
 <div class="resiframe">
 
-  <iframe src="//player.vimeo.com/video/107901603" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe id="vimeoSource" src="//player.vimeo.com/video/107901603#t647" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 </div>
 

@@ -6,7 +6,7 @@ permalink: /code/
 
 I am a developer.
 
-I code places on the web. I currently work at <a href="http://keystoneresources.com/" title="Keystone Resources" target="_blank">Keystone Resources</a>.
+I code places on the web. I've recently struck out on my own and created Snow Day Code (website coming soon).
 
 Here's some other stuff I'm proud of:
 
